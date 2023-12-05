@@ -58,7 +58,7 @@ let questions = [
   {
     numb: 6,
     question: "Which CSS property is used to remove the underlines from links?",
-    answer: "Hyper Text Markup Language",
+    answer: "text-decoration: none;",
     options: [
       "text-decoration: none;",
       "underline: none;",
